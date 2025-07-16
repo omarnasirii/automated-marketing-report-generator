@@ -41,21 +41,6 @@ This project is a Python-based automation tool that:
 
 ---
 
-## 📁 Folder Structure
-
-automated-marketing-report-generator/
-├── marketing_report_generator.py # Main script
-├── requirements.txt # Python dependencies
-├── .env.example # Example config
-├── .gitignore
-└── README.md # You're here!
-
-yaml
-Copy
-Edit
-
----
-
 ## 🔧 Setup Guide
 
 ### 1. Clone the Repo
