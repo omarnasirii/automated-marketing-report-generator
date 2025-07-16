@@ -1,0 +1,7 @@
+pandas
+matplotlib
+openpyxl
+schedule
+psycopg2-binary
+slack_sdk
+python-dotenv
